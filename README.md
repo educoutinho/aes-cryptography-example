@@ -1,2 +1,2 @@
-# aes-cryptography-sample
- Criptografia utilizando AES em C#
+# AES Cryptography Example
+Exemplo de Criptografia utilizando AES em C#
