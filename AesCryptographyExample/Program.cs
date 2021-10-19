@@ -1,7 +1,6 @@
 ﻿using System;
-using System.Text;
 
-namespace AesCryptographySample
+namespace AesCryptographyExample
 {
     public class Program
     {
@@ -20,7 +19,7 @@ namespace AesCryptographySample
                 Console.WriteLine($"Decrypted: {decrypted}");
                 Console.WriteLine();
             }
-                        
+            
             Console.ReadKey();
         }
     }

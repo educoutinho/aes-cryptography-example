@@ -3,7 +3,7 @@ using System.IO;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace AesCryptographySample
+namespace AesCryptographyExample
 {
     public static class Encryption
     {
